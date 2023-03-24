@@ -1,10 +1,10 @@
 # Quiz01 Here are the tasks that is assigned
 
-•	First/landing page => Me
-•	User registering page => Tito-com
-•	User reset password page => 
-•	User login page => teangsreyroth
-•	README.md (document on how to setup, compile, and run project locally) => daraaveasna
+  First/landing page => Me
+  User registering page => Tito-com
+  User reset password page => sovortey514
+  User login page => teangsreyroth
+  README.md (document on how to setup, compile, and run project locally) => daraaveasna
 
 ## Typing Test Application
 
